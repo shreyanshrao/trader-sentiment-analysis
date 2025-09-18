@@ -1,0 +1,13 @@
+{
+  "Total Trades": 211218,
+  "Overall Win Rate": "41.12%",
+  "Overall Avg PnL": "$48.55",
+  "Best Sentiment": "Extreme Greed",
+  "Best Sentiment PnL": "$67.89",
+  "Worst Sentiment": "Neutral",
+  "Worst Sentiment PnL": "$34.31",
+  "Fear Avg PnL": "$49.21",
+  "Greed Avg PnL": "$53.88",
+  "Extreme Sentiment PnL": "$56.27",
+  "Normal Sentiment PnL": "$45.39"
+}
